@@ -5,3 +5,5 @@
 layout: single
 author_profile: true
 ---
+
+I am a Postdoctoral Associate in in the Departments of Chemistry and Chemical Engineering at MIT. I'm currently researching polymer materials for gas separation membranes.

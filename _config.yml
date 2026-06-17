@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Daniel Krajovic"
   avatar : "/assets/images/Daniel Krajovic - square.JPG"
   bio    : "Stewardship-minded polymer scientist. Lover of good conversations and outdoor activities."
   links:

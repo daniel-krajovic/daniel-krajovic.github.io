@@ -2,8 +2,8 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /posts/
-  - title: "Technical competencies"
-    url: /categories/
+    url: /cv/
+  - title: "Skills"
+    url: /skills/
   - title: "Publications"
-    url: /tags/
+    url: /publications/
